@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "name": "Akshit Mithaiwala",
+      "email": "akshit@gmail.com",
+      "department": "python",
+      "married": true
+    },
+    {
+      "name": "Viral Shatri",
+      "email": "viral@gmail.com",
+      "department": "python",
+      "married": true
+    },
+    {
+      "name": "Rajan Mourya",
+      "email": "rajan@gmail.com",
+      "department": "node",
+      "married": false
+    }
+  ]
+}
